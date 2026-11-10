@@ -8,7 +8,7 @@
 
 A bilingual (**French / Arabic**) static e-commerce storefront for luxury Ralph Lauren linen shirts across **all 58 Algerian wilayas**, featuring dynamic delivery fee calculation, mobile-first design, and serverless Google Sheets order collection.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tarekzerari-dev/Le-Gentleman)
+
 
 </div>
 
