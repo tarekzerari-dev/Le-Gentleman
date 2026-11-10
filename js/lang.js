@@ -49,6 +49,10 @@ const translations = {
         successText: "Votre commande a été enregistrée avec succès. Nous vous contacterons bientôt pour confirmer la livraison.",
         backHome: "Retour à l'accueil",
 
+        // 404
+        notFoundTitle: "Page introuvable",
+        notFoundText: "La page que vous recherchez n'existe pas ou a été déplacée.",
+
         // Footer
         footerContact: "Contact",
         footerRights: "Tous droits réservés.",
@@ -100,6 +104,10 @@ const translations = {
         successTitle: "شكراً لك!",
         successText: "تم تسجيل طلبك بنجاح. سنتصل بك قريباً لتأكيد التوصيل.",
         backHome: "العودة للرئيسية",
+
+        // 404
+        notFoundTitle: "الصفحة غير موجودة",
+        notFoundText: "الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
 
         // Footer
         footerContact: "اتصل بنا",

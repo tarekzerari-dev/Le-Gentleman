@@ -115,6 +115,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (product) {
             previewImage.src = product.image;
             previewImage.alt = selected.textContent;
+            previewName.setAttribute("data-i18n", product.i18nKey);
             previewName.textContent = selected.textContent;
         }
     }
